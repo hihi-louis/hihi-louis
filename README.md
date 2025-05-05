@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **C, C++, Python, SQL, Azure, AWS**
 
-- 👯 I’m looking to collaborate on [Minishell](https://github.com/Siuol7/42-minishell.git)
+- 👯 I’m collaborated on [Minishell](https://github.com/Siuol7/42-minishell.git)
 
 - 🤝 I’m looking for help with [Philosophers](git@github.com:hihi-louis/Philosophers.git)
 
