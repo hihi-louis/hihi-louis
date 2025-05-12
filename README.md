@@ -5,11 +5,9 @@
 
 - 🌱 I’m currently learning **C, C++, Python, SQL, Azure, AWS**
 
-- 👯 I’m collaborated on [Minishell](https://github.com/Siuol7/42-minishell.git)
+- 👯 I’m collaborated on [Cub3D]
 
 - 🤝 I’m looking for help with [Philosophers](git@github.com:hihi-louis/Philosophers.git)
-
-- 💬 Ask me about **C**
 
 - 📫 How to reach me **triet.pham.fi@gmail.com**
 
