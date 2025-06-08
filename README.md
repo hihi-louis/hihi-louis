@@ -7,7 +7,7 @@
 
 - 👯 I’m collaborated on [Cub3D]
 
-- 🤝 I’m looking for help with [Philosophers](git@github.com:hihi-louis/Philosophers.git)
+- 🤝 I’m looking for help with CPP-00
 
 - 📫 How to reach me **triet.pham.fi@gmail.com**
 
