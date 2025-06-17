@@ -1,18 +1,5 @@
 <h1 align="center">Hi 👋, I'm Louis</h1>
 <h3 align="center">A passionate software developer student</h3>
-
-- 🔭 I’m currently working on [Philosophers](git@github.com:hihi-louis/Philosophers.git)
-
-- 🌱 I’m currently learning **C, C++, Python, SQL, Azure, AWS**
-
-- 👯 I’m collaborated on [Cub3D]
-
-- 🤝 I’m looking for help with CPP-00
-
-- 📫 How to reach me **triet.pham.fi@gmail.com**
-
-- ⚡ Fun fact: **I think I am a funny guy**
-
 <p align="left">
 </p>
 
