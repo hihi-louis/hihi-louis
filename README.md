@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Triet Pham (Louis)</h1>
+<h1 align="center">Hi 👋, I'm Triet Pham </h1>
 <h3 align="center">Full-Stack Developer 🇫🇮</h3>
 
 <p align="center">
@@ -28,10 +28,7 @@
   <img src="https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white"/>
 </p>
 
-### 📊 GitHub stats
-
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=hihi-louis&show_icons=true&hide_border=true&theme=transparent" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hihi-louis&layout=compact&hide_border=true&theme=transparent" />
 </p>
 
